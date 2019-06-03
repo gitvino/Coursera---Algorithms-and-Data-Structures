@@ -1,6 +1,26 @@
+/* 
+
+Problem: Maximum Pairwise Product Programming Challenge.
+Given a sequence of n non-negative integers, find the maximum pairwise product. 
+
+Input: 
+First Line (n): Number of input values. 
+Second Line (numbers): sequence of n non-negative integer values seperated by space. 
+
+Output: Maximum Pairwise Product. 
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
+/*
+
+MaxPairwiseProduct: This is a naive solution to find maximum pairwise product.
+It finds maximum product by comparing product of each possible combination. 
+
+*/
 
 long long MaxPairwiseProduct(const std::vector<int>& numbers) {
     long long max_product = 0;
@@ -15,6 +35,14 @@ long long MaxPairwiseProduct(const std::vector<int>& numbers) {
 
     return max_product;
 }
+
+/*
+
+MaxPairwiseProductFast: This is faster solution compared MaxPairwiseProduct. 
+It scans through the input vector twice to find the maximum value and second maximum value. 
+Returns the product of maximum value and second maximum value. 
+
+*/
 
 long long MaxPairwiseProductFast(const std::vector<int>& numbers) {
     long long max_product = 0;
@@ -39,6 +67,9 @@ long long MaxPairwiseProductFast(const std::vector<int>& numbers) {
 
 int main() {
 
+    /* Stress Testing: This block of code is for Stress Testing to find possible failures. 
+    It compares result between naive implementation and faster implementation. */
+    /*
     while(true) {
         int n = rand()%10 + 2;
         std::cout << n << "\n";
@@ -58,7 +89,8 @@ int main() {
         else{
             std::cout << "OK" << "\n"; 
         }
-    }
+    } 
+    */
 
     int n;
     std::cin >> n;
