@@ -7,3 +7,6 @@ The class covers basic algorithmic techniques and ideas for computational proble
 
  ## Week 1: 
  Few sample programming challenges and introduction to testing techniques. 
+
+ ## Week 2:
+ Programming challenges to implement solutions that are faster than the straightforward naive solutions. All challenges are related to Fibonacci series. 
