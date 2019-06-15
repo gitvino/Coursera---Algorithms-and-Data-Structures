@@ -1,6 +1,6 @@
 # Coursera Specialisation: Algorithms and Data-Structures
 My solutions for assignments in [Coursera Specialisation "Algorithms and Data Structures"](https://www.coursera.org/specializations/data-structures-algorithms)
-
+![Coursera](http://68.media.tumblr.com/92a71d62ace9940f8ddd540400444fc4/tumblr_inline_mppo32jFBC1qz4rgp.png)
 
 # Course 1: Algorithmic Toolbox
 The class covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming, and many others. 
