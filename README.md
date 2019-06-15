@@ -1,5 +1,5 @@
 # Coursera Specialisation: Algorithms and Data-Structures
-My solutions for assignments in [Coursera Specialisation "Algorithms and Data Structures"]("https://www.coursera.org/specializations/data-structures-algorithms")
+My solutions for assignments in [Coursera Specialisation "Algorithms and Data Structures"]"https://www.coursera.org/specializations/data-structures-algorithms"
 
 
 # Course 1: Algorithmic Toolbox
