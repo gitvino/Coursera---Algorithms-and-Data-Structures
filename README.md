@@ -13,3 +13,6 @@ The class covers basic algorithmic techniques and ideas for computational proble
 
  ## [Week 2:](https://github.com/gitvino/Coursera-Specialisation-Algorithms-and-Data-Structures/tree/master/1_Algorithmic_Toolbox/week2_algorithmic_warmup "Week 2")
  Programming challenges to implement solutions that are faster than the straightforward naive solutions. All challenges are related to Fibonacci series. 
+
+## [Week 2:] (https://github.com/gitvino/Coursera-Specialisation-Algorithms-and-Data-Structures/tree/master/1_Algorithmic_Toolbox/week3_greedy_algorithms "Week 3")
+Greedy Algorithms.
