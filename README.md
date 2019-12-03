@@ -16,3 +16,6 @@ The class covers basic algorithmic techniques and ideas for computational proble
 
 ## [Week 3:](https://github.com/gitvino/Coursera-Specialisation-Algorithms-and-Data-Structures/tree/master/1_Algorithmic_Toolbox/week3_greedy_algorithms "Week 3")
 Greedy Algorithms.
+
+## [Week 4:](https://github.com/gitvino/Coursera-Specialisation-Algorithms-and-Data-Structures/tree/master/1_Algorithmic_Toolbox/week4_divide_and_conquer "Week 4")
+Divide and Conquer.
